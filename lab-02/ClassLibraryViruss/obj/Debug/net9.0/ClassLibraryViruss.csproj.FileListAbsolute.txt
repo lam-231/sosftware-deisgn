@@ -1,0 +1,12 @@
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryViruss\bin\Debug\net9.0\ClassLibraryViruss.deps.json
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryViruss\bin\Debug\net9.0\ClassLibraryViruss.dll
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryViruss\bin\Debug\net9.0\ClassLibraryViruss.pdb
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryViruss\obj\Debug\net9.0\ClassLibraryViruss.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryViruss\obj\Debug\net9.0\ClassLibraryViruss.AssemblyInfoInputs.cache
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryViruss\obj\Debug\net9.0\ClassLibraryViruss.AssemblyInfo.cs
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryViruss\obj\Debug\net9.0\ClassLibraryViruss.csproj.CoreCompileInputs.cache
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryViruss\obj\Debug\net9.0\ClassLibraryViruss.sourcelink.json
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryViruss\obj\Debug\net9.0\ClassLibraryViruss.dll
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryViruss\obj\Debug\net9.0\refint\ClassLibraryViruss.dll
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryViruss\obj\Debug\net9.0\ClassLibraryViruss.pdb
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryViruss\obj\Debug\net9.0\ref\ClassLibraryViruss.dll

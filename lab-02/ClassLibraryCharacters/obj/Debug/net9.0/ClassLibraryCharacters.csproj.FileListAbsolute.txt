@@ -1,0 +1,12 @@
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryCharacters\bin\Debug\net9.0\ClassLibraryCharacters.deps.json
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryCharacters\bin\Debug\net9.0\ClassLibraryCharacters.dll
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryCharacters\bin\Debug\net9.0\ClassLibraryCharacters.pdb
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryCharacters\obj\Debug\net9.0\ClassLibraryCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryCharacters\obj\Debug\net9.0\ClassLibraryCharacters.AssemblyInfoInputs.cache
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryCharacters\obj\Debug\net9.0\ClassLibraryCharacters.AssemblyInfo.cs
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryCharacters\obj\Debug\net9.0\ClassLibraryCharacters.csproj.CoreCompileInputs.cache
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryCharacters\obj\Debug\net9.0\ClassLibraryCharacters.sourcelink.json
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryCharacters\obj\Debug\net9.0\ClassLibraryCharacters.dll
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryCharacters\obj\Debug\net9.0\refint\ClassLibraryCharacters.dll
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryCharacters\obj\Debug\net9.0\ClassLibraryCharacters.pdb
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryCharacters\obj\Debug\net9.0\ref\ClassLibraryCharacters.dll

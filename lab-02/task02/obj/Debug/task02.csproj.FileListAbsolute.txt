@@ -1,0 +1,10 @@
+C:\University\course2\sem2\softwareDesign\lab-02\task02\bin\Debug\task02.exe.config
+C:\University\course2\sem2\softwareDesign\lab-02\task02\bin\Debug\task02.exe
+C:\University\course2\sem2\softwareDesign\lab-02\task02\bin\Debug\task02.pdb
+C:\University\course2\sem2\softwareDesign\lab-02\task02\bin\Debug\ClassLibraryTechFactory.dll
+C:\University\course2\sem2\softwareDesign\lab-02\task02\bin\Debug\ClassLibraryTechFactory.pdb
+C:\University\course2\sem2\softwareDesign\lab-02\task02\obj\Debug\task02.csproj.AssemblyReference.cache
+C:\University\course2\sem2\softwareDesign\lab-02\task02\obj\Debug\task02.csproj.CoreCompileInputs.cache
+C:\University\course2\sem2\softwareDesign\lab-02\task02\obj\Debug\task02.csproj.Up2Date
+C:\University\course2\sem2\softwareDesign\lab-02\task02\obj\Debug\task02.exe
+C:\University\course2\sem2\softwareDesign\lab-02\task02\obj\Debug\task02.pdb

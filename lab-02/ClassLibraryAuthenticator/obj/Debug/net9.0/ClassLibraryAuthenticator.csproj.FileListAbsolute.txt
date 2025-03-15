@@ -1,0 +1,12 @@
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryAuthenticator\bin\Debug\net9.0\ClassLibraryAuthenticator.deps.json
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryAuthenticator\bin\Debug\net9.0\ClassLibraryAuthenticator.dll
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryAuthenticator\bin\Debug\net9.0\ClassLibraryAuthenticator.pdb
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryAuthenticator\obj\Debug\net9.0\ClassLibraryAuthenticator.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryAuthenticator\obj\Debug\net9.0\ClassLibraryAuthenticator.AssemblyInfoInputs.cache
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryAuthenticator\obj\Debug\net9.0\ClassLibraryAuthenticator.AssemblyInfo.cs
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryAuthenticator\obj\Debug\net9.0\ClassLibraryAuthenticator.csproj.CoreCompileInputs.cache
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryAuthenticator\obj\Debug\net9.0\ClassLibraryAuthenticator.sourcelink.json
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryAuthenticator\obj\Debug\net9.0\ClassLibraryAuthenticator.dll
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryAuthenticator\obj\Debug\net9.0\refint\ClassLibraryAuthenticator.dll
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryAuthenticator\obj\Debug\net9.0\ClassLibraryAuthenticator.pdb
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryAuthenticator\obj\Debug\net9.0\ref\ClassLibraryAuthenticator.dll

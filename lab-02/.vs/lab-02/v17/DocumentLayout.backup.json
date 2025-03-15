@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4858E1-D82F-415B-941C-D072FBCD17C6}|ClassLibraryCharacters\\ClassLibraryCharacters.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-02\\classlibrarycharacters\\icharacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4858E1-D82F-415B-941C-D072FBCD17C6}|ClassLibraryCharacters\\ClassLibraryCharacters.csproj|solutionrelative:classlibrarycharacters\\icharacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0419C2-61E3-4B33-9301-2006FCA22815}|task05\\task05.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-02\\task05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0419C2-61E3-4B33-9301-2006FCA22815}|task05\\task05.csproj|solutionrelative:task05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4858E1-D82F-415B-941C-D072FBCD17C6}|ClassLibraryCharacters\\ClassLibraryCharacters.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-02\\classlibrarycharacters\\charactersbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4858E1-D82F-415B-941C-D072FBCD17C6}|ClassLibraryCharacters\\ClassLibraryCharacters.csproj|solutionrelative:classlibrarycharacters\\charactersbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC20FE52-8B34-45E2-B1A8-0FDD9E09BDCB}|ClassLibraryAuthenticator\\ClassLibraryAuthenticator.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-02\\classlibraryauthenticator\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC20FE52-8B34-45E2-B1A8-0FDD9E09BDCB}|ClassLibraryAuthenticator\\ClassLibraryAuthenticator.csproj|solutionrelative:classlibraryauthenticator\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272BABD8-7E33-479C-A1CB-C6DEF0C572BD}|task03\\task03.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-02\\task03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272BABD8-7E33-479C-A1CB-C6DEF0C572BD}|task03\\task03.csproj|solutionrelative:task03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B96C7391-4AAE-4C83-AD13-5FA8A0296A60}|task02\\task02.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-02\\task02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B96C7391-4AAE-4C83-AD13-5FA8A0296A60}|task02\\task02.csproj|solutionrelative:task02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF7D5AC-E2A8-4452-9FD4-9693AC6852FD}|ClassLibraryTechFactory\\ClassLibraryTechFactory.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-02\\classlibrarytechfactory\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF7D5AC-E2A8-4452-9FD4-9693AC6852FD}|ClassLibraryTechFactory\\ClassLibraryTechFactory.csproj|solutionrelative:classlibrarytechfactory\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF7D5AC-E2A8-4452-9FD4-9693AC6852FD}|ClassLibraryTechFactory\\ClassLibraryTechFactory.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-02\\classlibrarytechfactory\\somedevices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF7D5AC-E2A8-4452-9FD4-9693AC6852FD}|ClassLibraryTechFactory\\ClassLibraryTechFactory.csproj|solutionrelative:classlibrarytechfactory\\somedevices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF7D5AC-E2A8-4452-9FD4-9693AC6852FD}|ClassLibraryTechFactory\\ClassLibraryTechFactory.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-02\\classlibrarytechfactory\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF7D5AC-E2A8-4452-9FD4-9693AC6852FD}|ClassLibraryTechFactory\\ClassLibraryTechFactory.csproj|solutionrelative:classlibrarytechfactory\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10D75FB-0D95-48B9-8D6B-5B0DFE5590A1}|task01\\task01.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-02\\task01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10D75FB-0D95-48B9-8D6B-5B0DFE5590A1}|task01\\task01.csproj|solutionrelative:task01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICharacterBuilder.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\ClassLibraryCharacters\\ICharacterBuilder.cs",
+              "RelativeDocumentMoniker": "ClassLibraryCharacters\\ICharacterBuilder.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\ClassLibraryCharacters\\ICharacterBuilder.cs",
+              "RelativeToolTip": "ClassLibraryCharacters\\ICharacterBuilder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:00:29.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharactersBuilder.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\ClassLibraryCharacters\\CharactersBuilder.cs",
+              "RelativeDocumentMoniker": "ClassLibraryCharacters\\CharactersBuilder.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\ClassLibraryCharacters\\CharactersBuilder.cs",
+              "RelativeToolTip": "ClassLibraryCharacters\\CharactersBuilder.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:02:12.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\task05\\Program.cs",
+              "RelativeDocumentMoniker": "task05\\Program.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\task05\\Program.cs",
+              "RelativeToolTip": "task05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:54:24.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Authenticator.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\ClassLibraryAuthenticator\\Authenticator.cs",
+              "RelativeDocumentMoniker": "ClassLibraryAuthenticator\\Authenticator.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\ClassLibraryAuthenticator\\Authenticator.cs",
+              "RelativeToolTip": "ClassLibraryAuthenticator\\Authenticator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:30:30.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\task03\\Program.cs",
+              "RelativeDocumentMoniker": "task03\\Program.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\task03\\Program.cs",
+              "RelativeToolTip": "task03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:30:00.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\ClassLibraryTechFactory\\Factory.cs",
+              "RelativeDocumentMoniker": "ClassLibraryTechFactory\\Factory.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\ClassLibraryTechFactory\\Factory.cs",
+              "RelativeToolTip": "ClassLibraryTechFactory\\Factory.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvwgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:29:11.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SomeDevices.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\ClassLibraryTechFactory\\SomeDevices.cs",
+              "RelativeDocumentMoniker": "ClassLibraryTechFactory\\SomeDevices.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\ClassLibraryTechFactory\\SomeDevices.cs",
+              "RelativeToolTip": "ClassLibraryTechFactory\\SomeDevices.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:25:55.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\ClassLibraryTechFactory\\Device.cs",
+              "RelativeDocumentMoniker": "ClassLibraryTechFactory\\Device.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\ClassLibraryTechFactory\\Device.cs",
+              "RelativeToolTip": "ClassLibraryTechFactory\\Device.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:24:31.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\task02\\Program.cs",
+              "RelativeDocumentMoniker": "task02\\Program.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\task02\\Program.cs",
+              "RelativeToolTip": "task02\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvw4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:10:57.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\task01\\Program.cs",
+              "RelativeDocumentMoniker": "task01\\Program.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\task01\\Program.cs",
+              "RelativeToolTip": "task01\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:49:34.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
