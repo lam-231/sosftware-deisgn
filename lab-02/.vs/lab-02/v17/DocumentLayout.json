@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4858E1-D82F-415B-941C-D072FBCD17C6}|ClassLibraryCharacters\\ClassLibraryCharacters.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-02\\classlibrarycharacters\\charactersbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4858E1-D82F-415B-941C-D072FBCD17C6}|ClassLibraryCharacters\\ClassLibraryCharacters.csproj|solutionrelative:classlibrarycharacters\\charactersbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4858E1-D82F-415B-941C-D072FBCD17C6}|ClassLibraryCharacters\\ClassLibraryCharacters.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-02\\classlibrarycharacters\\characterdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4858E1-D82F-415B-941C-D072FBCD17C6}|ClassLibraryCharacters\\ClassLibraryCharacters.csproj|solutionrelative:classlibrarycharacters\\characterdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4858E1-D82F-415B-941C-D072FBCD17C6}|ClassLibraryCharacters\\ClassLibraryCharacters.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-02\\classlibrarycharacters\\icharacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4858E1-D82F-415B-941C-D072FBCD17C6}|ClassLibraryCharacters\\ClassLibraryCharacters.csproj|solutionrelative:classlibrarycharacters\\icharacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4858E1-D82F-415B-941C-D072FBCD17C6}|ClassLibraryCharacters\\ClassLibraryCharacters.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-02\\classlibrarycharacters\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4858E1-D82F-415B-941C-D072FBCD17C6}|ClassLibraryCharacters\\ClassLibraryCharacters.csproj|solutionrelative:classlibrarycharacters\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICharacterBuilder.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\ClassLibraryCharacters\\ICharacterBuilder.cs",
+              "RelativeDocumentMoniker": "ClassLibraryCharacters\\ICharacterBuilder.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\ClassLibraryCharacters\\ICharacterBuilder.cs",
+              "RelativeToolTip": "ClassLibraryCharacters\\ICharacterBuilder.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T21:50:22.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CharactersBuilder.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\ClassLibraryCharacters\\CharactersBuilder.cs",
+              "RelativeDocumentMoniker": "ClassLibraryCharacters\\CharactersBuilder.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\ClassLibraryCharacters\\CharactersBuilder.cs",
+              "RelativeToolTip": "ClassLibraryCharacters\\CharactersBuilder.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAawEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T21:50:21.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterDirector.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\ClassLibraryCharacters\\CharacterDirector.cs",
+              "RelativeDocumentMoniker": "ClassLibraryCharacters\\CharacterDirector.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\ClassLibraryCharacters\\CharacterDirector.cs",
+              "RelativeToolTip": "ClassLibraryCharacters\\CharacterDirector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T21:50:20.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\ClassLibraryCharacters\\Character.cs",
+              "RelativeDocumentMoniker": "ClassLibraryCharacters\\Character.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-02\\ClassLibraryCharacters\\Character.cs",
+              "RelativeToolTip": "ClassLibraryCharacters\\Character.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIA2wBMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T21:50:19.01Z"
             }
           ]
         }

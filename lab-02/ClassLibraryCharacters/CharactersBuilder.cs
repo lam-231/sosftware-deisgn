@@ -69,7 +69,6 @@ namespace ClassLibraryCharacters
         }
     }
 
-    // Білдер для ворога
     public class EnemyBuilder : ICharacterBuilder
     {
         private Character _character;
