@@ -1,0 +1,12 @@
+C:\University\course2\sem2\softwareDesign\lab-03\ShapeLibrary\bin\Debug\net8.0\ShapeLibrary.deps.json
+C:\University\course2\sem2\softwareDesign\lab-03\ShapeLibrary\bin\Debug\net8.0\ShapeLibrary.dll
+C:\University\course2\sem2\softwareDesign\lab-03\ShapeLibrary\bin\Debug\net8.0\ShapeLibrary.pdb
+C:\University\course2\sem2\softwareDesign\lab-03\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\course2\sem2\softwareDesign\lab-03\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.AssemblyInfoInputs.cache
+C:\University\course2\sem2\softwareDesign\lab-03\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.AssemblyInfo.cs
+C:\University\course2\sem2\softwareDesign\lab-03\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.csproj.CoreCompileInputs.cache
+C:\University\course2\sem2\softwareDesign\lab-03\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.sourcelink.json
+C:\University\course2\sem2\softwareDesign\lab-03\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.dll
+C:\University\course2\sem2\softwareDesign\lab-03\ShapeLibrary\obj\Debug\net8.0\refint\ShapeLibrary.dll
+C:\University\course2\sem2\softwareDesign\lab-03\ShapeLibrary\obj\Debug\net8.0\ShapeLibrary.pdb
+C:\University\course2\sem2\softwareDesign\lab-03\ShapeLibrary\obj\Debug\net8.0\ref\ShapeLibrary.dll

@@ -1,0 +1,12 @@
+C:\University\course2\sem2\softwareDesign\lab-03\SmartTextLibrary\bin\Debug\net8.0\SmartTextLibrary.deps.json
+C:\University\course2\sem2\softwareDesign\lab-03\SmartTextLibrary\bin\Debug\net8.0\SmartTextLibrary.dll
+C:\University\course2\sem2\softwareDesign\lab-03\SmartTextLibrary\bin\Debug\net8.0\SmartTextLibrary.pdb
+C:\University\course2\sem2\softwareDesign\lab-03\SmartTextLibrary\obj\Debug\net8.0\SmartTextLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\course2\sem2\softwareDesign\lab-03\SmartTextLibrary\obj\Debug\net8.0\SmartTextLibrary.AssemblyInfoInputs.cache
+C:\University\course2\sem2\softwareDesign\lab-03\SmartTextLibrary\obj\Debug\net8.0\SmartTextLibrary.AssemblyInfo.cs
+C:\University\course2\sem2\softwareDesign\lab-03\SmartTextLibrary\obj\Debug\net8.0\SmartTextLibrary.csproj.CoreCompileInputs.cache
+C:\University\course2\sem2\softwareDesign\lab-03\SmartTextLibrary\obj\Debug\net8.0\SmartTextLibrary.sourcelink.json
+C:\University\course2\sem2\softwareDesign\lab-03\SmartTextLibrary\obj\Debug\net8.0\SmartTextLibrary.dll
+C:\University\course2\sem2\softwareDesign\lab-03\SmartTextLibrary\obj\Debug\net8.0\refint\SmartTextLibrary.dll
+C:\University\course2\sem2\softwareDesign\lab-03\SmartTextLibrary\obj\Debug\net8.0\SmartTextLibrary.pdb
+C:\University\course2\sem2\softwareDesign\lab-03\SmartTextLibrary\obj\Debug\net8.0\ref\SmartTextLibrary.dll

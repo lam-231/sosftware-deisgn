@@ -1,0 +1,559 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00BEE0C1-B5EC-427B-8E3A-71470D323BCD}|task6\\task6.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BEE0C1-B5EC-427B-8E3A-71470D323BCD}|task6\\task6.csproj|solutionrelative:task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D00299B-F5E0-4E1E-A610-46FDC9484A6C}|LightHTMLLibrary\\LightHTMLLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\lighthtmllibrary\\tagfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D00299B-F5E0-4E1E-A610-46FDC9484A6C}|LightHTMLLibrary\\LightHTMLLibrary.csproj|solutionrelative:lighthtmllibrary\\tagfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087604CE-86B0-4BB8-94C6-57944C4A86FA}|task5\\task5.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087604CE-86B0-4BB8-94C6-57944C4A86FA}|task5\\task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D00299B-F5E0-4E1E-A610-46FDC9484A6C}|LightHTMLLibrary\\LightHTMLLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\lighthtmllibrary\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D00299B-F5E0-4E1E-A610-46FDC9484A6C}|LightHTMLLibrary\\LightHTMLLibrary.csproj|solutionrelative:lighthtmllibrary\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D00299B-F5E0-4E1E-A610-46FDC9484A6C}|LightHTMLLibrary\\LightHTMLLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\lighthtmllibrary\\closingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D00299B-F5E0-4E1E-A610-46FDC9484A6C}|LightHTMLLibrary\\LightHTMLLibrary.csproj|solutionrelative:lighthtmllibrary\\closingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D00299B-F5E0-4E1E-A610-46FDC9484A6C}|LightHTMLLibrary\\LightHTMLLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\lighthtmllibrary\\displaytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D00299B-F5E0-4E1E-A610-46FDC9484A6C}|LightHTMLLibrary\\LightHTMLLibrary.csproj|solutionrelative:lighthtmllibrary\\displaytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D00299B-F5E0-4E1E-A610-46FDC9484A6C}|LightHTMLLibrary\\LightHTMLLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\lighthtmllibrary\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D00299B-F5E0-4E1E-A610-46FDC9484A6C}|LightHTMLLibrary\\LightHTMLLibrary.csproj|solutionrelative:lighthtmllibrary\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D00299B-F5E0-4E1E-A610-46FDC9484A6C}|LightHTMLLibrary\\LightHTMLLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\lighthtmllibrary\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D00299B-F5E0-4E1E-A610-46FDC9484A6C}|LightHTMLLibrary\\LightHTMLLibrary.csproj|solutionrelative:lighthtmllibrary\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12117DC6-A9BC-428A-B3B1-1C81181D588B}|task4\\task4.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12117DC6-A9BC-428A-B3B1-1C81181D588B}|task4\\task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02545207-E89F-444A-BD82-3BA26918EE49}|SmartTextLibrary\\SmartTextLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\smarttextlibrary\\smarttextreaderlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02545207-E89F-444A-BD82-3BA26918EE49}|SmartTextLibrary\\SmartTextLibrary.csproj|solutionrelative:smarttextlibrary\\smarttextreaderlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02545207-E89F-444A-BD82-3BA26918EE49}|SmartTextLibrary\\SmartTextLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\smarttextlibrary\\smarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02545207-E89F-444A-BD82-3BA26918EE49}|SmartTextLibrary\\SmartTextLibrary.csproj|solutionrelative:smarttextlibrary\\smarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02545207-E89F-444A-BD82-3BA26918EE49}|SmartTextLibrary\\SmartTextLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\smarttextlibrary\\smarttextchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02545207-E89F-444A-BD82-3BA26918EE49}|SmartTextLibrary\\SmartTextLibrary.csproj|solutionrelative:smarttextlibrary\\smarttextchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CBD51A-443C-4748-862D-4C9ADC594979}|task3\\task3.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CBD51A-443C-4748-862D-4C9ADC594979}|task3\\task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DEDEF4C-F82B-42AD-B845-134DBDC029B8}|ShapeLibrary\\ShapeLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\shapelibrary\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DEDEF4C-F82B-42AD-B845-134DBDC029B8}|ShapeLibrary\\ShapeLibrary.csproj|solutionrelative:shapelibrary\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DEDEF4C-F82B-42AD-B845-134DBDC029B8}|ShapeLibrary\\ShapeLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\shapelibrary\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DEDEF4C-F82B-42AD-B845-134DBDC029B8}|ShapeLibrary\\ShapeLibrary.csproj|solutionrelative:shapelibrary\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DEDEF4C-F82B-42AD-B845-134DBDC029B8}|ShapeLibrary\\ShapeLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\shapelibrary\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DEDEF4C-F82B-42AD-B845-134DBDC029B8}|ShapeLibrary\\ShapeLibrary.csproj|solutionrelative:shapelibrary\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DEDEF4C-F82B-42AD-B845-134DBDC029B8}|ShapeLibrary\\ShapeLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\shapelibrary\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DEDEF4C-F82B-42AD-B845-134DBDC029B8}|ShapeLibrary\\ShapeLibrary.csproj|solutionrelative:shapelibrary\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DEDEF4C-F82B-42AD-B845-134DBDC029B8}|ShapeLibrary\\ShapeLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\shapelibrary\\vectorrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DEDEF4C-F82B-42AD-B845-134DBDC029B8}|ShapeLibrary\\ShapeLibrary.csproj|solutionrelative:shapelibrary\\vectorrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DEDEF4C-F82B-42AD-B845-134DBDC029B8}|ShapeLibrary\\ShapeLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\shapelibrary\\rasterrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DEDEF4C-F82B-42AD-B845-134DBDC029B8}|ShapeLibrary\\ShapeLibrary.csproj|solutionrelative:shapelibrary\\rasterrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DEDEF4C-F82B-42AD-B845-134DBDC029B8}|ShapeLibrary\\ShapeLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\shapelibrary\\irender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DEDEF4C-F82B-42AD-B845-134DBDC029B8}|ShapeLibrary\\ShapeLibrary.csproj|solutionrelative:shapelibrary\\irender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0A80A6-85A3-41FF-8443-B5744C7FCFEF}|RPGLibrary\\RPGLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\rpglibrary\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0A80A6-85A3-41FF-8443-B5744C7FCFEF}|RPGLibrary\\RPGLibrary.csproj|solutionrelative:rpglibrary\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0A80A6-85A3-41FF-8443-B5744C7FCFEF}|RPGLibrary\\RPGLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\rpglibrary\\ihero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0A80A6-85A3-41FF-8443-B5744C7FCFEF}|RPGLibrary\\RPGLibrary.csproj|solutionrelative:rpglibrary\\ihero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0A80A6-85A3-41FF-8443-B5744C7FCFEF}|RPGLibrary\\RPGLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\rpglibrary\\heroestypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0A80A6-85A3-41FF-8443-B5744C7FCFEF}|RPGLibrary\\RPGLibrary.csproj|solutionrelative:rpglibrary\\heroestypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C6EA6-B35A-4735-86EA-4D771CD91D42}|task2\\task2.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C6EA6-B35A-4735-86EA-4D771CD91D42}|task2\\task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0A80A6-85A3-41FF-8443-B5744C7FCFEF}|RPGLibrary\\RPGLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\rpglibrary\\herodecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0A80A6-85A3-41FF-8443-B5744C7FCFEF}|RPGLibrary\\RPGLibrary.csproj|solutionrelative:rpglibrary\\herodecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C6EA6-B35A-4735-86EA-4D771CD91D42}|task2\\task2.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\task2\\task2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE6C6EA6-B35A-4735-86EA-4D771CD91D42}|task2\\task2.csproj|solutionrelative:task2\\task2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB91A0F4-EAF7-408E-9F40-7AB371608957}|task1\\task1.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB91A0F4-EAF7-408E-9F40-7AB371608957}|task1\\task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BFC9D9-336F-413C-B37B-B435A37268A2}|LoggerLibrary\\LoggerLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\loggerlibrary\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BFC9D9-336F-413C-B37B-B435A37268A2}|LoggerLibrary\\LoggerLibrary.csproj|solutionrelative:loggerlibrary\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BFC9D9-336F-413C-B37B-B435A37268A2}|LoggerLibrary\\LoggerLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\loggerlibrary\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BFC9D9-336F-413C-B37B-B435A37268A2}|LoggerLibrary\\LoggerLibrary.csproj|solutionrelative:loggerlibrary\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BFC9D9-336F-413C-B37B-B435A37268A2}|LoggerLibrary\\LoggerLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\loggerlibrary\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BFC9D9-336F-413C-B37B-B435A37268A2}|LoggerLibrary\\LoggerLibrary.csproj|solutionrelative:loggerlibrary\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BFC9D9-336F-413C-B37B-B435A37268A2}|LoggerLibrary\\LoggerLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\loggerlibrary\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BFC9D9-336F-413C-B37B-B435A37268A2}|LoggerLibrary\\LoggerLibrary.csproj|solutionrelative:loggerlibrary\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB91A0F4-EAF7-408E-9F40-7AB371608957}|task1\\task1.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\task1\\task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB91A0F4-EAF7-408E-9F40-7AB371608957}|task1\\task1.csproj|solutionrelative:task1\\task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\task6\\Program.cs",
+              "RelativeDocumentMoniker": "task6\\Program.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\task6\\Program.cs",
+              "RelativeToolTip": "task6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:01:47.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TagFactory.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\LightHTMLLibrary\\TagFactory.cs",
+              "RelativeDocumentMoniker": "LightHTMLLibrary\\TagFactory.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\LightHTMLLibrary\\TagFactory.cs",
+              "RelativeToolTip": "LightHTMLLibrary\\TagFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:00:45.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\task5\\Program.cs",
+              "RelativeDocumentMoniker": "task5\\Program.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\task5\\Program.cs",
+              "RelativeToolTip": "task5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:51:39.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClosingType.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\LightHTMLLibrary\\ClosingType.cs",
+              "RelativeDocumentMoniker": "LightHTMLLibrary\\ClosingType.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\LightHTMLLibrary\\ClosingType.cs",
+              "RelativeToolTip": "LightHTMLLibrary\\ClosingType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:49:55.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DisplayType.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\LightHTMLLibrary\\DisplayType.cs",
+              "RelativeDocumentMoniker": "LightHTMLLibrary\\DisplayType.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\LightHTMLLibrary\\DisplayType.cs",
+              "RelativeToolTip": "LightHTMLLibrary\\DisplayType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:49:41.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LightElementNode.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\LightHTMLLibrary\\LightElementNode.cs",
+              "RelativeDocumentMoniker": "LightHTMLLibrary\\LightElementNode.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\LightHTMLLibrary\\LightElementNode.cs",
+              "RelativeToolTip": "LightHTMLLibrary\\LightElementNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:49:27.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LightTextNode.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\LightHTMLLibrary\\LightTextNode.cs",
+              "RelativeDocumentMoniker": "LightHTMLLibrary\\LightTextNode.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\LightHTMLLibrary\\LightTextNode.cs",
+              "RelativeToolTip": "LightHTMLLibrary\\LightTextNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:49:01.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LightNode.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\LightHTMLLibrary\\LightNode.cs",
+              "RelativeDocumentMoniker": "LightHTMLLibrary\\LightNode.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\LightHTMLLibrary\\LightNode.cs",
+              "RelativeToolTip": "LightHTMLLibrary\\LightNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:48:40.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SmartTextReaderLocker.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\SmartTextLibrary\\SmartTextReaderLocker.cs",
+              "RelativeDocumentMoniker": "SmartTextLibrary\\SmartTextReaderLocker.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\SmartTextLibrary\\SmartTextReaderLocker.cs",
+              "RelativeToolTip": "SmartTextLibrary\\SmartTextReaderLocker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:31:09.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SmartTextChecker.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\SmartTextLibrary\\SmartTextChecker.cs",
+              "RelativeDocumentMoniker": "SmartTextLibrary\\SmartTextChecker.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\SmartTextLibrary\\SmartTextChecker.cs",
+              "RelativeToolTip": "SmartTextLibrary\\SmartTextChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:28:45.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SmartTextReader.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\SmartTextLibrary\\SmartTextReader.cs",
+              "RelativeDocumentMoniker": "SmartTextLibrary\\SmartTextReader.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\SmartTextLibrary\\SmartTextReader.cs",
+              "RelativeToolTip": "SmartTextLibrary\\SmartTextReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:27:51.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\task4\\Program.cs",
+              "RelativeDocumentMoniker": "task4\\Program.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\task4\\Program.cs",
+              "RelativeToolTip": "task4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:27:11.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RasterRenderer.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\ShapeLibrary\\RasterRenderer.cs",
+              "RelativeDocumentMoniker": "ShapeLibrary\\RasterRenderer.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\ShapeLibrary\\RasterRenderer.cs",
+              "RelativeToolTip": "ShapeLibrary\\RasterRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:08:26.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VectorRenderer.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\ShapeLibrary\\VectorRenderer.cs",
+              "RelativeDocumentMoniker": "ShapeLibrary\\VectorRenderer.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\ShapeLibrary\\VectorRenderer.cs",
+              "RelativeToolTip": "ShapeLibrary\\VectorRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:08:07.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRender.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\ShapeLibrary\\IRender.cs",
+              "RelativeDocumentMoniker": "ShapeLibrary\\IRender.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\ShapeLibrary\\IRender.cs",
+              "RelativeToolTip": "ShapeLibrary\\IRender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:07:40.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\ShapeLibrary\\Triangle.cs",
+              "RelativeDocumentMoniker": "ShapeLibrary\\Triangle.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\ShapeLibrary\\Triangle.cs",
+              "RelativeToolTip": "ShapeLibrary\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:07:20.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\ShapeLibrary\\Square.cs",
+              "RelativeDocumentMoniker": "ShapeLibrary\\Square.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\ShapeLibrary\\Square.cs",
+              "RelativeToolTip": "ShapeLibrary\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:06:59.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\ShapeLibrary\\Circle.cs",
+              "RelativeDocumentMoniker": "ShapeLibrary\\Circle.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\ShapeLibrary\\Circle.cs",
+              "RelativeToolTip": "ShapeLibrary\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:06:42.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\ShapeLibrary\\Shape.cs",
+              "RelativeDocumentMoniker": "ShapeLibrary\\Shape.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\ShapeLibrary\\Shape.cs",
+              "RelativeToolTip": "ShapeLibrary\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:06:19.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\task3\\Program.cs",
+              "RelativeDocumentMoniker": "task3\\Program.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\task3\\Program.cs",
+              "RelativeToolTip": "task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:05:30.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "task2",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\task2\\task2.csproj",
+              "RelativeDocumentMoniker": "task2\\task2.csproj",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\task2\\task2.csproj",
+              "RelativeToolTip": "task2\\task2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T12:55:17.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\RPGLibrary\\Inventory.cs",
+              "RelativeDocumentMoniker": "RPGLibrary\\Inventory.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\RPGLibrary\\Inventory.cs",
+              "RelativeToolTip": "RPGLibrary\\Inventory.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA4wB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:27:48.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HeroDecorator.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\RPGLibrary\\HeroDecorator.cs",
+              "RelativeDocumentMoniker": "RPGLibrary\\HeroDecorator.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\RPGLibrary\\HeroDecorator.cs",
+              "RelativeToolTip": "RPGLibrary\\HeroDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:26:44.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HeroesTypes.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\RPGLibrary\\HeroesTypes.cs",
+              "RelativeDocumentMoniker": "RPGLibrary\\HeroesTypes.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\RPGLibrary\\HeroesTypes.cs",
+              "RelativeToolTip": "RPGLibrary\\HeroesTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:25:20.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IHero.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\RPGLibrary\\IHero.cs",
+              "RelativeDocumentMoniker": "RPGLibrary\\IHero.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\RPGLibrary\\IHero.cs",
+              "RelativeToolTip": "RPGLibrary\\IHero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:24:10.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\task2\\Program.cs",
+              "RelativeDocumentMoniker": "task2\\Program.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\task2\\Program.cs",
+              "RelativeToolTip": "task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:20:22.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "task1.csproj",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\task1\\task1.csproj",
+              "RelativeDocumentMoniker": "task1\\task1.csproj",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\task1\\task1.csproj",
+              "RelativeToolTip": "task1\\task1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T12:10:00.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FileLoggerAdapter.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\LoggerLibrary\\FileLoggerAdapter.cs",
+              "RelativeDocumentMoniker": "LoggerLibrary\\FileLoggerAdapter.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\LoggerLibrary\\FileLoggerAdapter.cs",
+              "RelativeToolTip": "LoggerLibrary\\FileLoggerAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:12:46.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\LoggerLibrary\\ILogger.cs",
+              "RelativeDocumentMoniker": "LoggerLibrary\\ILogger.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\LoggerLibrary\\ILogger.cs",
+              "RelativeToolTip": "LoggerLibrary\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:12:18.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FileWriter.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\LoggerLibrary\\FileWriter.cs",
+              "RelativeDocumentMoniker": "LoggerLibrary\\FileWriter.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\LoggerLibrary\\FileWriter.cs",
+              "RelativeToolTip": "LoggerLibrary\\FileWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:12:06.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\LoggerLibrary\\Logger.cs",
+              "RelativeDocumentMoniker": "LoggerLibrary\\Logger.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\LoggerLibrary\\Logger.cs",
+              "RelativeToolTip": "LoggerLibrary\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:10:59.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\task1\\Program.cs",
+              "RelativeDocumentMoniker": "task1\\Program.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\task1\\Program.cs",
+              "RelativeToolTip": "task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:06:52.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

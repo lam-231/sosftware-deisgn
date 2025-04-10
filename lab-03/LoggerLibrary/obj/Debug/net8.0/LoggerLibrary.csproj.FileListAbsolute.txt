@@ -1,0 +1,11 @@
+C:\University\course2\sem2\ASP\lab2\lab-03\LoggerLibrary\bin\Debug\net8.0\LoggerLibrary.deps.json
+C:\University\course2\sem2\ASP\lab2\lab-03\LoggerLibrary\bin\Debug\net8.0\LoggerLibrary.dll
+C:\University\course2\sem2\ASP\lab2\lab-03\LoggerLibrary\bin\Debug\net8.0\LoggerLibrary.pdb
+C:\University\course2\sem2\ASP\lab2\lab-03\LoggerLibrary\obj\Debug\net8.0\LoggerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\course2\sem2\ASP\lab2\lab-03\LoggerLibrary\obj\Debug\net8.0\LoggerLibrary.AssemblyInfoInputs.cache
+C:\University\course2\sem2\ASP\lab2\lab-03\LoggerLibrary\obj\Debug\net8.0\LoggerLibrary.AssemblyInfo.cs
+C:\University\course2\sem2\ASP\lab2\lab-03\LoggerLibrary\obj\Debug\net8.0\LoggerLibrary.csproj.CoreCompileInputs.cache
+C:\University\course2\sem2\ASP\lab2\lab-03\LoggerLibrary\obj\Debug\net8.0\LoggerLibrary.dll
+C:\University\course2\sem2\ASP\lab2\lab-03\LoggerLibrary\obj\Debug\net8.0\refint\LoggerLibrary.dll
+C:\University\course2\sem2\ASP\lab2\lab-03\LoggerLibrary\obj\Debug\net8.0\LoggerLibrary.pdb
+C:\University\course2\sem2\ASP\lab2\lab-03\LoggerLibrary\obj\Debug\net8.0\ref\LoggerLibrary.dll

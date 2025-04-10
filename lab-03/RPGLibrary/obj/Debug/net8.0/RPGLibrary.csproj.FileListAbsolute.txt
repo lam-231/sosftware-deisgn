@@ -1,0 +1,12 @@
+C:\University\course2\sem2\softwareDesign\lab-03\RPGLibrary\bin\Debug\net8.0\RPGLibrary.deps.json
+C:\University\course2\sem2\softwareDesign\lab-03\RPGLibrary\bin\Debug\net8.0\RPGLibrary.dll
+C:\University\course2\sem2\softwareDesign\lab-03\RPGLibrary\bin\Debug\net8.0\RPGLibrary.pdb
+C:\University\course2\sem2\softwareDesign\lab-03\RPGLibrary\obj\Debug\net8.0\RPGLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\course2\sem2\softwareDesign\lab-03\RPGLibrary\obj\Debug\net8.0\RPGLibrary.AssemblyInfoInputs.cache
+C:\University\course2\sem2\softwareDesign\lab-03\RPGLibrary\obj\Debug\net8.0\RPGLibrary.AssemblyInfo.cs
+C:\University\course2\sem2\softwareDesign\lab-03\RPGLibrary\obj\Debug\net8.0\RPGLibrary.csproj.CoreCompileInputs.cache
+C:\University\course2\sem2\softwareDesign\lab-03\RPGLibrary\obj\Debug\net8.0\RPGLibrary.sourcelink.json
+C:\University\course2\sem2\softwareDesign\lab-03\RPGLibrary\obj\Debug\net8.0\RPGLibrary.dll
+C:\University\course2\sem2\softwareDesign\lab-03\RPGLibrary\obj\Debug\net8.0\refint\RPGLibrary.dll
+C:\University\course2\sem2\softwareDesign\lab-03\RPGLibrary\obj\Debug\net8.0\RPGLibrary.pdb
+C:\University\course2\sem2\softwareDesign\lab-03\RPGLibrary\obj\Debug\net8.0\ref\RPGLibrary.dll

@@ -1,0 +1,12 @@
+C:\University\course2\sem2\softwareDesign\lab-03\LightHTMLLibrary\bin\Debug\net8.0\LightHTMLLibrary.deps.json
+C:\University\course2\sem2\softwareDesign\lab-03\LightHTMLLibrary\bin\Debug\net8.0\LightHTMLLibrary.dll
+C:\University\course2\sem2\softwareDesign\lab-03\LightHTMLLibrary\bin\Debug\net8.0\LightHTMLLibrary.pdb
+C:\University\course2\sem2\softwareDesign\lab-03\LightHTMLLibrary\obj\Debug\net8.0\LightHTMLLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\course2\sem2\softwareDesign\lab-03\LightHTMLLibrary\obj\Debug\net8.0\LightHTMLLibrary.AssemblyInfoInputs.cache
+C:\University\course2\sem2\softwareDesign\lab-03\LightHTMLLibrary\obj\Debug\net8.0\LightHTMLLibrary.AssemblyInfo.cs
+C:\University\course2\sem2\softwareDesign\lab-03\LightHTMLLibrary\obj\Debug\net8.0\LightHTMLLibrary.csproj.CoreCompileInputs.cache
+C:\University\course2\sem2\softwareDesign\lab-03\LightHTMLLibrary\obj\Debug\net8.0\LightHTMLLibrary.sourcelink.json
+C:\University\course2\sem2\softwareDesign\lab-03\LightHTMLLibrary\obj\Debug\net8.0\LightHTMLLibrary.dll
+C:\University\course2\sem2\softwareDesign\lab-03\LightHTMLLibrary\obj\Debug\net8.0\refint\LightHTMLLibrary.dll
+C:\University\course2\sem2\softwareDesign\lab-03\LightHTMLLibrary\obj\Debug\net8.0\LightHTMLLibrary.pdb
+C:\University\course2\sem2\softwareDesign\lab-03\LightHTMLLibrary\obj\Debug\net8.0\ref\LightHTMLLibrary.dll
