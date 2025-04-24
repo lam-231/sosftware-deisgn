@@ -6,25 +6,23 @@ namespace LightHTMLApp
     {
         static void Main(string[] args)
         {
-            var div = new LightElementNode("div", DisplayType.Block, ClosingType.Pair);
-            div.AddClass("container");
+            var button = new LightElementNode("button", DisplayType.Inline, ClosingType.Pair);
+            button.AddChild(new LightTextNode("Click me"));
 
-            var h1 = new LightElementNode("h1", DisplayType.Block, ClosingType.Pair);
-            h1.AddClass("main-title");
-            h1.AddChild(new LightTextNode("LightHTML!"));
+            button.AddEventListener("click", () => {
+                Console.WriteLine("Button was clicked!");
+            });
 
-            var p = new LightElementNode("p", DisplayType.Block, ClosingType.Pair);
-            p.AddChild(new LightTextNode("абзац тексту в власній HTML-мові."));
+            button.AddEventListener("mouseover", () => {
+                Console.WriteLine("Mouse over button!");
+            });
 
-            div.AddChild(h1);
-            div.AddChild(p);
+            Console.WriteLine("Triggering events:");
+            button.TriggerEvent("mouseover");
+            button.TriggerEvent("click");
 
-            Console.WriteLine("OUTER HTML:");
-            Console.WriteLine(div.OuterHTML);
-            Console.WriteLine();
-
-            Console.WriteLine("INNER HTML:");
-            Console.WriteLine(div.InnerHTML);
+            Console.WriteLine("\nHTML structure:");
+            Console.WriteLine(button.OuterHTML);
         }
     }
 }
