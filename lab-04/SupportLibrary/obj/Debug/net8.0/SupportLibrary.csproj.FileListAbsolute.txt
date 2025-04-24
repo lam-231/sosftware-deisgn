@@ -1,0 +1,12 @@
+C:\University\course2\sem2\softwareDesign\lab-04\SupportLibrary\bin\Debug\net8.0\SupportLibrary.deps.json
+C:\University\course2\sem2\softwareDesign\lab-04\SupportLibrary\bin\Debug\net8.0\SupportLibrary.dll
+C:\University\course2\sem2\softwareDesign\lab-04\SupportLibrary\bin\Debug\net8.0\SupportLibrary.pdb
+C:\University\course2\sem2\softwareDesign\lab-04\SupportLibrary\obj\Debug\net8.0\SupportLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\course2\sem2\softwareDesign\lab-04\SupportLibrary\obj\Debug\net8.0\SupportLibrary.AssemblyInfoInputs.cache
+C:\University\course2\sem2\softwareDesign\lab-04\SupportLibrary\obj\Debug\net8.0\SupportLibrary.AssemblyInfo.cs
+C:\University\course2\sem2\softwareDesign\lab-04\SupportLibrary\obj\Debug\net8.0\SupportLibrary.csproj.CoreCompileInputs.cache
+C:\University\course2\sem2\softwareDesign\lab-04\SupportLibrary\obj\Debug\net8.0\SupportLibrary.sourcelink.json
+C:\University\course2\sem2\softwareDesign\lab-04\SupportLibrary\obj\Debug\net8.0\SupportLibrary.dll
+C:\University\course2\sem2\softwareDesign\lab-04\SupportLibrary\obj\Debug\net8.0\refint\SupportLibrary.dll
+C:\University\course2\sem2\softwareDesign\lab-04\SupportLibrary\obj\Debug\net8.0\SupportLibrary.pdb
+C:\University\course2\sem2\softwareDesign\lab-04\SupportLibrary\obj\Debug\net8.0\ref\SupportLibrary.dll
