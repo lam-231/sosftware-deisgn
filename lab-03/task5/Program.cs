@@ -19,6 +19,12 @@ namespace LightHTMLApp
             div.AddChild(h1);
             div.AddChild(p);
 
+            var imageFromFile = new ImageNode("images/photo.jpg", new FileImageLoader());
+            var imageFromWeb = new ImageNode("https://example.com/photo.jpg", new NetworkImageLoader());
+
+            div.AddChild(imageFromFile);
+            div.AddChild(imageFromWeb);
+
             Console.WriteLine("OUTER HTML:");
             Console.WriteLine(div.OuterHTML);
             Console.WriteLine();
