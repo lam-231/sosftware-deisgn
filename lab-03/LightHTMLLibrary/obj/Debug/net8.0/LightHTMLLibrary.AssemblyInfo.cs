@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LightHTMLLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b918e42b46084c7c6d94c8567fd208c46c86b74c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c7db763c8f778f5f8cb335de55d92ba161252a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("LightHTMLLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LightHTMLLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
