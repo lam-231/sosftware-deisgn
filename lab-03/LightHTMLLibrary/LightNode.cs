@@ -10,5 +10,8 @@ namespace LightHTMLLibrary
     {
         public abstract string OuterHTML { get; }
         public abstract string InnerHTML { get; }
+
+        public abstract void Accept(ILightNodeVisitor visitor); 
+
     }
 }
