@@ -15,7 +15,12 @@ namespace LightHTMLLibrary
         public List<LightNode> Children { get; set; } = new List<LightNode>();
 
         public int ChildrenCount => Children.Count;
-
+        public ILightNodeIterator GetIterator(bool depthFirst = true)
+        {
+            return depthFirst
+                ? new DepthFirstIterator(this)
+                : new BreadthFirstIterator(this);
+        }
         public LightElementNode(string tagName, DisplayType displayType, ClosingType closingType)
         {
             TagName = tagName;
