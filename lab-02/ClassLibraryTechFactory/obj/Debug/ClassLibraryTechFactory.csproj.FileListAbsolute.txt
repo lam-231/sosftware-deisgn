@@ -1,0 +1,6 @@
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryTechFactory\bin\Debug\ClassLibraryTechFactory.dll
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryTechFactory\bin\Debug\ClassLibraryTechFactory.pdb
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryTechFactory\obj\Debug\ClassLibraryTechFactory.csproj.AssemblyReference.cache
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryTechFactory\obj\Debug\ClassLibraryTechFactory.csproj.CoreCompileInputs.cache
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryTechFactory\obj\Debug\ClassLibraryTechFactory.dll
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryTechFactory\obj\Debug\ClassLibraryTechFactory.pdb

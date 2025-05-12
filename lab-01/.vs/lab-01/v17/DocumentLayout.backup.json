@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\University\\course2\\sem2\\softwareDesign\\lab-01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D368A44-6672-4697-8FD1-0CEF0C8A9973}|ShopClassLibrary\\ShopClassLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-01\\shopclasslibrary\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D368A44-6672-4697-8FD1-0CEF0C8A9973}|ShopClassLibrary\\ShopClassLibrary.csproj|solutionrelative:shopclasslibrary\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB6F3A3-0A9A-43AE-B3B3-5CFAE8340EDA}|masster\\masster.csproj|C:\\University\\course2\\sem2\\softwareDesign\\lab-01\\masster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB6F3A3-0A9A-43AE-B3B3-5CFAE8340EDA}|masster\\masster.csproj|solutionrelative:masster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D368A44-6672-4697-8FD1-0CEF0C8A9973}|ShopClassLibrary\\ShopClassLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-01\\shopclasslibrary\\reporting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D368A44-6672-4697-8FD1-0CEF0C8A9973}|ShopClassLibrary\\ShopClassLibrary.csproj|solutionrelative:shopclasslibrary\\reporting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D368A44-6672-4697-8FD1-0CEF0C8A9973}|ShopClassLibrary\\ShopClassLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-01\\shopclasslibrary\\prodcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D368A44-6672-4697-8FD1-0CEF0C8A9973}|ShopClassLibrary\\ShopClassLibrary.csproj|solutionrelative:shopclasslibrary\\prodcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D368A44-6672-4697-8FD1-0CEF0C8A9973}|ShopClassLibrary\\ShopClassLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-01\\shopclasslibrary\\\u0441urrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D368A44-6672-4697-8FD1-0CEF0C8A9973}|ShopClassLibrary\\ShopClassLibrary.csproj|solutionrelative:shopclasslibrary\\\u0441urrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D368A44-6672-4697-8FD1-0CEF0C8A9973}|ShopClassLibrary\\ShopClassLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-01\\shopclasslibrary\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D368A44-6672-4697-8FD1-0CEF0C8A9973}|ShopClassLibrary\\ShopClassLibrary.csproj|solutionrelative:shopclasslibrary\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D368A44-6672-4697-8FD1-0CEF0C8A9973}|ShopClassLibrary\\ShopClassLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-01\\shopclasslibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D368A44-6672-4697-8FD1-0CEF0C8A9973}|ShopClassLibrary\\ShopClassLibrary.csproj|solutionrelative:shopclasslibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\u0421urrency.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-01\\ShopClassLibrary\\\u0421urrency.cs",
+              "RelativeDocumentMoniker": "ShopClassLibrary\\\u0421urrency.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-01\\ShopClassLibrary\\\u0421urrency.cs",
+              "RelativeToolTip": "ShopClassLibrary\\\u0421urrency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:35:56.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-01\\ShopClassLibrary\\Warehouse.cs",
+              "RelativeDocumentMoniker": "ShopClassLibrary\\Warehouse.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-01\\ShopClassLibrary\\Warehouse.cs",
+              "RelativeToolTip": "ShopClassLibrary\\Warehouse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:35:52.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reporting.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-01\\ShopClassLibrary\\Reporting.cs",
+              "RelativeDocumentMoniker": "ShopClassLibrary\\Reporting.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-01\\ShopClassLibrary\\Reporting.cs",
+              "RelativeToolTip": "ShopClassLibrary\\Reporting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:35:49.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-01\\ShopClassLibrary\\Product.cs",
+              "RelativeDocumentMoniker": "ShopClassLibrary\\Product.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-01\\ShopClassLibrary\\Product.cs",
+              "RelativeToolTip": "ShopClassLibrary\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:35:43.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdCategory.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-01\\ShopClassLibrary\\ProdCategory.cs",
+              "RelativeDocumentMoniker": "ShopClassLibrary\\ProdCategory.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-01\\ShopClassLibrary\\ProdCategory.cs",
+              "RelativeToolTip": "ShopClassLibrary\\ProdCategory.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:35:35.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Money.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-01\\ShopClassLibrary\\Money.cs",
+              "RelativeDocumentMoniker": "ShopClassLibrary\\Money.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-01\\ShopClassLibrary\\Money.cs",
+              "RelativeToolTip": "ShopClassLibrary\\Money.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:35:26.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-01\\masster\\Program.cs",
+              "RelativeDocumentMoniker": "masster\\Program.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-01\\masster\\Program.cs",
+              "RelativeToolTip": "masster\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:24:50.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

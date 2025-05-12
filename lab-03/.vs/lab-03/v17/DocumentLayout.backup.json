@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{087604CE-86B0-4BB8-94C6-57944C4A86FA}|task5\\task5.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087604CE-86B0-4BB8-94C6-57944C4A86FA}|task5\\task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087604CE-86B0-4BB8-94C6-57944C4A86FA}|task5\\task5.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\task5\\task5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{087604CE-86B0-4BB8-94C6-57944C4A86FA}|task5\\task5.csproj|solutionrelative:task5\\task5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D00299B-F5E0-4E1E-A610-46FDC9484A6C}|LightHTMLLibrary\\LightHTMLLibrary.csproj|c:\\university\\course2\\sem2\\softwaredesign\\lab-03\\lighthtmllibrary\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D00299B-F5E0-4E1E-A610-46FDC9484A6C}|LightHTMLLibrary\\LightHTMLLibrary.csproj|solutionrelative:lighthtmllibrary\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LightElementNode.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\LightHTMLLibrary\\LightElementNode.cs",
+              "RelativeDocumentMoniker": "LightHTMLLibrary\\LightElementNode.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\LightHTMLLibrary\\LightElementNode.cs",
+              "RelativeToolTip": "LightHTMLLibrary\\LightElementNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:02:31.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\task5\\Program.cs",
+              "RelativeDocumentMoniker": "task5\\Program.cs",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\task5\\Program.cs",
+              "RelativeToolTip": "task5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:21:47.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "task5.csproj",
+              "DocumentMoniker": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\task5\\task5.csproj",
+              "RelativeDocumentMoniker": "task5\\task5.csproj",
+              "ToolTip": "C:\\University\\course2\\sem2\\softwareDesign\\lab-03\\task5\\task5.csproj",
+              "RelativeToolTip": "task5\\task5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-11T10:21:42.83Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

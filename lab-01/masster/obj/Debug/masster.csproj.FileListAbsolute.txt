@@ -1,0 +1,10 @@
+C:\University\course2\sem2\softwareDesign\lab-01\masster\obj\Debug\masster.csproj.AssemblyReference.cache
+C:\University\course2\sem2\softwareDesign\lab-01\masster\obj\Debug\masster.csproj.CoreCompileInputs.cache
+C:\University\course2\sem2\softwareDesign\lab-01\masster\bin\Debug\masster.exe.config
+C:\University\course2\sem2\softwareDesign\lab-01\masster\bin\Debug\masster.exe
+C:\University\course2\sem2\softwareDesign\lab-01\masster\bin\Debug\masster.pdb
+C:\University\course2\sem2\softwareDesign\lab-01\masster\bin\Debug\ShopClassLibrary.dll
+C:\University\course2\sem2\softwareDesign\lab-01\masster\bin\Debug\ShopClassLibrary.pdb
+C:\University\course2\sem2\softwareDesign\lab-01\masster\obj\Debug\masster.csproj.Up2Date
+C:\University\course2\sem2\softwareDesign\lab-01\masster\obj\Debug\masster.exe
+C:\University\course2\sem2\softwareDesign\lab-01\masster\obj\Debug\masster.pdb

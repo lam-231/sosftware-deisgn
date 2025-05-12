@@ -1,0 +1,6 @@
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryFabMethod\obj\Debug\ClassLibraryFabMethod.csproj.AssemblyReference.cache
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryFabMethod\obj\Debug\ClassLibraryFabMethod.csproj.CoreCompileInputs.cache
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryFabMethod\bin\Debug\ClassLibraryFabMethod.dll
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryFabMethod\bin\Debug\ClassLibraryFabMethod.pdb
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryFabMethod\obj\Debug\ClassLibraryFabMethod.dll
+C:\University\course2\sem2\softwareDesign\lab-02\ClassLibraryFabMethod\obj\Debug\ClassLibraryFabMethod.pdb

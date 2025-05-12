@@ -1,0 +1,12 @@
+C:\University\course2\sem2\softwareDesign\lab-04\AirportLibrary\bin\Debug\net8.0\AirportLibrary.deps.json
+C:\University\course2\sem2\softwareDesign\lab-04\AirportLibrary\bin\Debug\net8.0\AirportLibrary.dll
+C:\University\course2\sem2\softwareDesign\lab-04\AirportLibrary\bin\Debug\net8.0\AirportLibrary.pdb
+C:\University\course2\sem2\softwareDesign\lab-04\AirportLibrary\obj\Debug\net8.0\AirportLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\course2\sem2\softwareDesign\lab-04\AirportLibrary\obj\Debug\net8.0\AirportLibrary.AssemblyInfoInputs.cache
+C:\University\course2\sem2\softwareDesign\lab-04\AirportLibrary\obj\Debug\net8.0\AirportLibrary.AssemblyInfo.cs
+C:\University\course2\sem2\softwareDesign\lab-04\AirportLibrary\obj\Debug\net8.0\AirportLibrary.csproj.CoreCompileInputs.cache
+C:\University\course2\sem2\softwareDesign\lab-04\AirportLibrary\obj\Debug\net8.0\AirportLibrary.sourcelink.json
+C:\University\course2\sem2\softwareDesign\lab-04\AirportLibrary\obj\Debug\net8.0\AirportLibrary.dll
+C:\University\course2\sem2\softwareDesign\lab-04\AirportLibrary\obj\Debug\net8.0\refint\AirportLibrary.dll
+C:\University\course2\sem2\softwareDesign\lab-04\AirportLibrary\obj\Debug\net8.0\AirportLibrary.pdb
+C:\University\course2\sem2\softwareDesign\lab-04\AirportLibrary\obj\Debug\net8.0\ref\AirportLibrary.dll

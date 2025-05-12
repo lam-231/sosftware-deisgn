@@ -1,0 +1,6 @@
+C:\University\course2\sem2\softwareDesign\lab-01\ShopClassLibrary\obj\Debug\ShopClassLibrary.csproj.AssemblyReference.cache
+C:\University\course2\sem2\softwareDesign\lab-01\ShopClassLibrary\obj\Debug\ShopClassLibrary.csproj.CoreCompileInputs.cache
+C:\University\course2\sem2\softwareDesign\lab-01\ShopClassLibrary\bin\Debug\ShopClassLibrary.dll
+C:\University\course2\sem2\softwareDesign\lab-01\ShopClassLibrary\bin\Debug\ShopClassLibrary.pdb
+C:\University\course2\sem2\softwareDesign\lab-01\ShopClassLibrary\obj\Debug\ShopClassLibrary.dll
+C:\University\course2\sem2\softwareDesign\lab-01\ShopClassLibrary\obj\Debug\ShopClassLibrary.pdb
