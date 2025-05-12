@@ -64,5 +64,24 @@ namespace LightHTMLLibrary
                 return $"<{TagName}{classAttribute}>{InnerHTML}</{TagName}>";
             }
         }
+
+        public IRenderState RenderState { get; set; } = (IRenderState)new NormalRenderState();
+
+        public string Render()
+        {
+            return RenderState.Render(this);
+        }
+
+        public string DefaultRender()
+        {
+            var sb = new StringBuilder();
+            sb.Append($"<{TagName}>");
+            foreach (var child in Children)
+            {
+                sb.Append(child.ToString());
+            }
+            sb.Append($"</{TagName}>");
+            return sb.ToString();
+        }
     }
 }
