@@ -17,5 +17,9 @@ namespace LightHTMLLibrary
 
         public override string OuterHTML => Text;
         public override string InnerHTML => Text;
+        public override void Accept(ILightNodeVisitor visitor)
+        {
+            visitor.VisitText(this);
+        }
     }
 }

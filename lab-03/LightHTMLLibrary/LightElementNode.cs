@@ -83,5 +83,13 @@ namespace LightHTMLLibrary
             sb.Append($"</{TagName}>");
             return sb.ToString();
         }
+        public override void Accept(ILightNodeVisitor visitor)
+        {
+            visitor.VisitElement(this);
+            foreach (var child in Children)
+            {
+                child.Accept(visitor);
+            }
+        }
     }
 }
